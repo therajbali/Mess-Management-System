@@ -28,10 +28,10 @@ if (isset($_SESSION['email'])) {
 
               <table class="table table-striped">
                 <thead>
-                  <th>Breakfast:</th>
-                  <th>Lunch: </th>
-                  <th>Snacks: </th>
-                  <th>Dinner:</th>
+                  <th>Breakfast Timing:</th>
+                  <th>Lunch Timing: </th>
+                  <th>Snacks Timing: </th>
+                  <th>Dinner Timing:</th>
 
                 </thead>
                 <tbody>
@@ -52,12 +52,12 @@ if (isset($_SESSION['email'])) {
       <div class="col-md-3">
         <div class="card">
           <div class="card-header">
-            <b>Important Notice</b>
+            <b>Important Notice and Rutine</b>
           </div>
           <div class="card-body">
             <ul>
               <marquee direction="up" scrollamount="2">
-                <li><a>1. Please always wear mask and sentize your hands timely.</a></li>
+                <li><a>1. Please always wear mask and sentize your hands on time.</a></li>
                 <li><a>2. Always maintain social distance.</a></li>
                 <li><a>3. Give your valuable feebback to improve us.</a></li>
               </marquee>
@@ -80,10 +80,10 @@ if (isset($_SESSION['email'])) {
             ?>
               <table class="table table-striped">
                 <thead>
-                  <th>Breakfast:</th>
-                  <th>Lunch: </th>
-                  <th>Snacks: </th>
-                  <th>Dinner:</th>
+                  <th>Breakfast Timing:</th>
+                  <th>Lunch Timing: </th>
+                  <th>Snacks Timing: </th>
+                  <th>Dinner Timing:</th>
 
                 </thead>
                 <tbody>
@@ -131,7 +131,7 @@ if (isset($_SESSION['email'])) {
         <div class="modal-content">
           <!-- Modal Header -->
           <div class="modal-header">
-            <h4 class="modal-title">Your Fee Status</h4>
+            <h4 class="modal-title">Your Hostel as well as mess Fee Status</h4>
             <button type="button" class="close" data-dismiss="modal">&times;</button>
           </div>
           <!-- Modal body -->
