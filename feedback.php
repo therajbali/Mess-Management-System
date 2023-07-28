@@ -36,7 +36,7 @@
             <select class="form-control" name="rating">
               <option>-Select rating-</option>
               <option>Poor</option>
-              <option>Good</option>
+              <option>Great</option>
               <option>Excellent</option>
             </select>
           </div>
