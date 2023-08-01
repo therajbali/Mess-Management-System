@@ -65,7 +65,7 @@
           </div>
           <div class="form-group">
             <label for="name">Mobile No:</label>
-            <input type="text" class="form-control" name="mobile" value="<?php echo $mobile; ?>" id="mobile" required="">
+            <input type="text" class="form-control" name="mobile" value="<?php echo $mobile; ?>" id="mobile No" required="">
           </div>
           <div class="form-group">
             <label>Address:</label>
