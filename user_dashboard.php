@@ -106,7 +106,7 @@ if (isset($_SESSION['email'])) {
             <b>Mess Timings</b>
           </div>
           <div class="card-body">
-            <b>Breakfast:</b> 8:00 AM to 9:00 AM <br>
+            <b>Breakfast:</b> 8:00 AM to 9:30 AM <br>
             <b>Lunch:</b> 12:00 PM to 2:00 PM <br>
             <b>Snaks:</b> 4:00 PM to 5:00 PM <br>
             <b>Dinner:</b> 8:00 PM to 9:30 PM
