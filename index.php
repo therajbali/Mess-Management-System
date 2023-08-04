@@ -91,7 +91,7 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg" style="background-color:#194350;">
   		<div class="container-fluid">
-  			<a class="navbar-brand" href="index.php"><h3 style="color:white;">Mess Management System</h3></a>
+  			<a class="navbar-brand" href="index.php"><h3 style="color:white;">Mess Manager </h3></a>
   		    <ul class="nav navbar-nav navbar-center">
   		      <li class="nav-item">
               <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#login_modal" id="login_button">Login</button>
