@@ -197,7 +197,7 @@
 		<div class="modal-body">
 			<form action="" method="post">
 				<div class="form-group">
-					<label for="email">Email:</label>
+					<label for="email">Email id:</label>
 					<input class="form-control" type="text" name="email" placeholder="Your Email" required>
 				</div>
 				<div class="form-group">
