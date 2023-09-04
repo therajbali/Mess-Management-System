@@ -1,14 +1,4 @@
-<?php
-  include('includes/header.php');
-  if(isset($_SESSION['email'])){
-  include('includes/connection.php');
-  $fname = "";
-  $lname = "";
-  $email = "";
-  $password = "";
-  $mobile = "";
-  $address = "";
-  $query = "select * from users where sno = '$_SESSION[uid]'";
+
   $query_run = mysqli_query($connection,$query);
   while($row = mysqli_fetch_assoc($query_run)){
     $fname = $row['fname'];
