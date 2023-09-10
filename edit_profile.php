@@ -18,7 +18,7 @@
     $mobile = $row['mobile'];
     $address = $row['address'];
   }
-  // Update Profile
+  // Update Profil
   if(isset($_POST['update'])){
     $query = "update users set fname='$_POST[fname]',lname='$_POST[lname]',email='$_POST[email]',password='$_POST[password]',mobile=$_POST[mobile],address='$_POST[address]' where sno=$_SESSION[uid]";
     $query_run = mysqli_query($connection,$query);
