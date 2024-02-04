@@ -1,1 +1,2 @@
-# Mess-Manager
+# Mess/Restaurant-Management-System
+Our Mess/Restaurant Management System with Online Access is a user-friendly solution to make running mess facilities or restaurants smoother. It's an easy-to-use web-based system that brings secure user logins, letting you check daily and weekly menus, user feedback, and reviews. The system also has an admin panel for managing users, keeping track of daily attendance, and handling mess fees effortlessly. Keep things under control and stay informed with our integrated and user-friendly platform.
