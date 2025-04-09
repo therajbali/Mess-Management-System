@@ -249,7 +249,7 @@
       </div>
       <!-- Modal body -->
       <div class="modal-body">
-        <h4>Monday</h4>
+        <h4>Monday</h4> 
         <p>
           <b>Breakfast: </b> Pohe, Milk, Egg <br>
           <b>Lunch:</b> Daal, Chapati, Mix vegetable and salad. <br>
