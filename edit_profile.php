@@ -16,7 +16,7 @@
     $email = $row['email'];
     $password = $row['password'];
     $mobile = $row['mobile'];
-    $address = $row['address'];
+    $address = $row['address']; 
   }
   // Update Profil
   if(isset($_POST['update'])){
