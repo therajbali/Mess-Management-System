@@ -6,7 +6,7 @@
   $lname = "";
   $email = "";
   $password = ""; 
-  $mobile = "";
+  $mobile = ""; 
   $address = "";
   $query = "select * from users where sno = '$_SESSION[uid]'";
   $query_run = mysqli_query($connection,$query);
