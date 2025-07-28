@@ -5,7 +5,7 @@
   $fname = "";
   $lname = "";
   $email = "";
-  $password = "";
+  $password = ""; 
   $mobile = "";
   $address = "";
   $query = "select * from users where sno = '$_SESSION[uid]'";
