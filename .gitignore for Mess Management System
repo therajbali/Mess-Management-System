@@ -1,0 +1,81 @@
+# PHP
+*.log
+*.cache
+vendor/
+composer.phar
+composer.lock
+
+# Database
+*.sql.bak
+*.sql.backup
+*.db
+
+# Sensitive Files
+config.php
+db_config.php
+.env
+.env.local
+
+# IDE and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+.buildpath
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Upload directories (if containing user data)
+# Uncomment if needed:
+# uploads/
+# user_uploads/
+
+# Session files
+sessions/
+*.session
+
+# Cache
+cache/
+*.cache
+
+# Logs
+logs/
+error_log
+access_log
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# PHPStorm
+.idea/
+
+# NetBeans
+nbproject/
+
+# Eclipse
+.buildpath
+.project
+.settings/
+
+# Composer
+vendor/
