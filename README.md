@@ -194,20 +194,35 @@ Mess-Management-System/
 ```
 
 ## 📸 Screenshots
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0772acaf-794e-4d07-adff-f50318d2eb74" />
 
 ### Login Page
-[Add screenshot here]
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/14196a97-29f8-40a1-bb0b-59f74e765297" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/82ecf0d4-0fb9-4f50-8636-bc4b0753332d" />
 
 ### User Dashboard
-[Add screenshot here]
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d082d4eb-b519-4398-8336-bb17768f3ea2" />
+
 
 ### Admin Panel
-[Add screenshot here]
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b8c8c551-71b9-4c9c-967b-7969a5927dbd" />
 
-### Menu View
-[Add screenshot here]
 
-*Screenshots to be added in `screenshots/` folder*
+### Admin View
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/913ecb9f-eda7-4362-8371-ce9b6c2edb73" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dde65266-202c-4aa8-8b36-7ab512e1c712" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/95f96d59-dbca-4887-ab6f-a8ec14fb43a8" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/04ad58ec-501c-40db-9ee5-49afbb394dc5" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2431a685-9ea2-4a82-ba87-246b8022eb7b" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8ab3a547-5c65-4fa3-95cd-f3b8d9fe5cf6" />
+
+
+
+
+
+
+
 
 ## 🔐 Security Features
 
