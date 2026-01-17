@@ -268,7 +268,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Bootstrap team for the amazing framework
 - PHP community for excellent documentation
 - All contributors who helped improve this project
-- [Add any other acknowledgments]
 
 ## 📞 Support
 
@@ -283,6 +282,6 @@ If you encounter any issues or have questions:
 
 ⭐ **If you find this project useful, please give it a star!** ⭐
 
-Made with ❤️ by [Raj Bali](https://github.com/therajbali)
+Made with ❤️ by [Rajbali](https://github.com/therajbali)
 
 </div>
