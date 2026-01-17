@@ -260,8 +260,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Raj Bali**
 
 - GitHub: [@therajbali](https://github.com/therajbali)
-- LinkedIn: [Add your LinkedIn]
-- Email: [Add your email]
+- LinkedIn: https://www.linkedin.com/in/therajbali
+- Email: rajbaliofficial@gmail.com
 
 ## 🙏 Acknowledgments
 
